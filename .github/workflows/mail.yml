@@ -27,4 +27,4 @@ jobs:
         uses: Preetul/ms-team-notification@v1.1
         with:
           webhook_uri: ${{ secrets.MS_TEAM_WEBHOOK_URI }}   
-          message: "This is from custom actions created."
+          message: "This is from custom actions created.."
